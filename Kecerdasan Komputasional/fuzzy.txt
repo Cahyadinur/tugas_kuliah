@@ -1,0 +1,15 @@
+Fuzzy Set Theory - Himpunan Alamiah
+
+> Fuzzy Set Theory
+- Basic Definitions
+	
+- Set Theoretic Operation
+- 
+> Fuzzy Rules and Fuzzy Reasoning
+> Fuzzy Inference System
+
+
+
+#ntahlah ini tugas atau tidak
+variable linguistik : kekuatan sinyal wifi
+nilai linguistik : excelent, good, poor

@@ -1,0 +1,5 @@
+Judul Skripsi
+Ahmad Nur Cahyadi / 190511094 / R3
+
+1. Sistem Informasi Penerimaan Santri Baru Pondok Pesantren Sains Salman Assalam berbasis Web
+2. Sistem Pendukung Keputusan Santri Terbaik Menggunakan Metode AHP dan Topsis berbasis Web

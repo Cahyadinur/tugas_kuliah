@@ -1,0 +1,11 @@
+Tugas Kecerdasan Komputasional !!
+
+
+buat jst hebb pengenal pola untuk mengenali pola karakter angka terakhir NIM
+- ukuran karakter 5x5 pixel
+- representasi input-output = bipolar - bipolar
+- threshold = 0
+- untuk pola yang salah, bisa banyak pola dengan angka yang sama, atau angka yang berbeda.
+
+
+format pengumpulan tulis tangan :)
